@@ -1,4 +1,4 @@
-Provides sample solar monitoring logs for Impact Allies' SCADA software, generated from solar-inverters running scada-client. The scada-client repository can be found [here](https://github.com/create-scada/scada-client). 
+Provides sample solar monitoring logs for Impact Allies' SCADA software, generated from solar inverters running scada-client. The scada-client repository can be found [here](https://github.com/create-scada/scada-client). 
 
 Format: {"_id":{"$oid":"6170d3c633da1eb412b85852"},"rtu_address":"madison-college.reedsburg","device_address":"controller1","point_data":{"pv_power":0.0,"temp":59.0,"skies":"LightRain"},"date":{"$date":"2021-10-21T02:43:18.676Z"}}
 
